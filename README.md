@@ -7,14 +7,14 @@
 [SQL Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?redirectedfrom=MSDN&view=sql-server-ver15)
 
 ---
-[Dataset](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms)
+[Dataset](https://github.com/Dimitrov-S-Dev-Python/Sales_Report_PBI/tree/master/1.Set%20Up)
 
 ---
 [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
 
 ---
 ## 2.Business Request & Demand Overview
-[Business Request & Demand Overview](https://github.com/Dimitrov-S-Dev-Python/Sales_Analysis_PBI/blob/master/2.Business%20Request%20%26%20Demand%20Overview/Business%20Demand%20Overview%20%26%20User%20Stories%20(Filled%20Out).docx)
+[Business Request & Demand Overview](https://github.com/Dimitrov-S-Dev-Python/Sales_Report_PBI/tree/master/2.Business%20Request%20%26%20Demand%20Overview)
 
 ---
 ## 3.Data Cleaning & Transformation
