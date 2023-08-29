@@ -14,11 +14,11 @@
 
 ---
 ## 2.Business Request & Demand Overview
-[Business Request & Demand Overview](https://github.com/Dimitrov-S-Dev-Python/Sales_Report_PBI/tree/master/2.Business%20Request%20%26%20Demand%20Overview)
+[Business Request & Demand Overview](https://github.com/Dimitrov-S-Dev-Python/Sales_Report_PBI/tree/master/3.Data%20Cleaning%20%26%20Transformation)
 
 ---
 ## 3.Data Cleaning & Transformation
-[Data Cleaning & Transformation](https://github.com/Dimitrov-S-Dev-Python/Sales_Analysis_PBI/tree/master/3.Data%20Cleaning_%26_Transformation)
+[Data Cleaning & Transformation](https://github.com/Dimitrov-S-Dev-Python/Sales_Report_PBI/tree/master/3.Data%20Cleaning%20%26%20Transformation)
 
 ---
 ## 4.Creating Dashboards
