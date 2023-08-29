@@ -22,7 +22,7 @@
 
 ---
 ## 4.Creating Dashboards
-[Creating Dashboards](https://github.com/Dimitrov-S-Dev-Python/Sales_Analysis_PBI/tree/master/3.Data%20Cleaning_%26_Transformation)
+[Creating Dashboards](https://github.com/Dimitrov-S-Dev-Python/Sales_Report_PBI/tree/master/3.Data%20Cleaning%20%26%20Transformation)
 
 ---
 ## 5.View Project
